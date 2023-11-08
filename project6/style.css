@@ -1,0 +1,12 @@
+#canvas1 {
+  position: absolute;
+  background: white;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+#images {
+  display: none;
+}
